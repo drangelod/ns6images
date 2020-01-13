@@ -1,0 +1,33 @@
+{
+  "nativescript": {
+    "id": "org.nativescript.NSimagegallery6",
+    "tns-android": {
+      "version": "6.3.1"
+    },
+    "tns-ios": {
+      "version": "6.3.0"
+    }
+  },
+  "description": "Stateful Nativescript Vue v6 picture gallery app",
+  "license": "MIT",
+  "repository": "https://github.com/drangelod/ns6images.git",
+  "dependencies": {
+    "nativescript-camera": "^4.5.0",
+    "nativescript-imagepicker": "^7.1.0",
+    "nativescript-photo-editor": "^1.1.0",
+    "nativescript-theme-core": "~1.0.6",
+    "nativescript-vue": "~2.4.0",
+    "tns-core-modules": "~6.3.2"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.1.0",
+    "@babel/preset-env": "~7.1.0",
+    "babel-loader": "~8.0.0",
+    "nativescript-dev-webpack": "~1.4.1",
+    "nativescript-vue-template-compiler": "~2.4.0",
+    "node-sass": "^4.7.1",
+    "vue-loader": "~15.4.0"
+  },
+  "gitHead": "1964ea9e8ca1a0518e0d6370781eedcf6c23db42",
+  "readme": "Final app files for blog post https://blog.angelengineering.com/nativescript6-picture-gallery"
+}
